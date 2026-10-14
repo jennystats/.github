@@ -1,7 +1,9 @@
 # Jenny Stats
 
 A home for Janet data and statistics packages. Pure Janet, no
-dependencies beyond the Janet runtime, AGPL-3.0.
+dependencies beyond the Janet runtime.
+
+Jenny is just Janet.
 
 | package | what | version |
 |---|---|---|
@@ -34,8 +36,4 @@ contract and the error say so.
 
 ## License
 
-AGPL-3.0. Each repository carries its own `LICENSE` and an AI
-assistance note - the code was written with the assistance of a
-large language model and reviewed by its maintainer.
-
-Jenny is just Janet.
+Each repository carries its own `LICENSE`, which is generally AGPL-3.0.
