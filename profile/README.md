@@ -13,6 +13,7 @@ Jenny is just Janet.
 | [janet-stats](https://github.com/jennystats/janet-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | statistics library: d/p/q distributions, hypothesis tests, regression, survival, resampling, Bayes | 0.1.2 |
 | [janet-duckdb](https://github.com/jennystats/janet-duckdb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | in-process DuckDB: prepared statements, full read/bind type matrix, column-major reads, packed f32 feed | 0.1.2 |
 | [janet-xgboost](https://github.com/jennystats/janet-xgboost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | typed xgboost bindings via core ffi, two ingest routes, bitwise conformance with the official wheel | 0.1.2 |
+| [janet-rayforce](https://github.com/jennystats/janet-rayforce)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | the Rayforce columnar engine via core ffi: raw plan plane (graphs, ops, filters, groups, sorts), parquet reads | 0.1.0 |
 
 ## The stack
 
