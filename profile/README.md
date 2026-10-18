@@ -7,12 +7,12 @@ Jenny is just Janet.
 
 | package | what | version |
 |---|---|---|
-| [janet-kit](https://github.com/jennystats/janet-kit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | runtime type guards (`defn/typed`) and utility helpers | 0.1.2 |
-| [janet-json](https://github.com/jennystats/janet-json)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | JSON encode/decode in plain Janet | 0.1.2 |
-| [janet-num](https://github.com/jennystats/janet-num)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | small C kernels for numeric hot paths: packed buffers, elementwise and reduction ops, matrix routines, special functions | 0.1.1 |
-| [janet-stats](https://github.com/jennystats/janet-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | statistics library: d/p/q distributions, hypothesis tests, regression, survival, resampling, Bayes | 0.1.1 |
-| [janet-duckdb](https://github.com/jennystats/janet-duckdb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | in-process DuckDB: prepared statements, full read/bind type matrix, column-major reads, packed f32 feed | 0.1.1 |
-| [janet-xgboost](https://github.com/jennystats/janet-xgboost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | typed xgboost bindings via core ffi, two ingest routes, bitwise conformance with the official wheel | 0.1.1 |
+| [janet-kit](https://github.com/jennystats/janet-kit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | runtime type guards (`defn/typed`) and utility helpers | 0.1.3 |
+| [janet-json](https://github.com/jennystats/janet-json)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | JSON encode/decode in plain Janet | 0.1.3 |
+| [janet-num](https://github.com/jennystats/janet-num)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | small C kernels for numeric hot paths: packed buffers, elementwise and reduction ops, matrix routines, special functions | 0.1.2 |
+| [janet-stats](https://github.com/jennystats/janet-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | statistics library: d/p/q distributions, hypothesis tests, regression, survival, resampling, Bayes | 0.1.2 |
+| [janet-duckdb](https://github.com/jennystats/janet-duckdb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | in-process DuckDB: prepared statements, full read/bind type matrix, column-major reads, packed f32 feed | 0.1.2 |
+| [janet-xgboost](https://github.com/jennystats/janet-xgboost)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | typed xgboost bindings via core ffi, two ingest routes, bitwise conformance with the official wheel | 0.1.2 |
 
 ## The stack
 
