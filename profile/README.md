@@ -11,7 +11,7 @@ Jenny is just Janet.
 
 | package | what | version |
 |---|---|---|
-| [janet&#8209;kit](https://github.com/jennystats/janet-kit) | runtime type guards (`defn/typed`) and utility helpers | 0.1.3 |
+| [janet&#8209;kit](https://github.com/jennystats/janet-kit) | runtime type guards (`defn/typed`) and utility helpers | 0.1.4 |
 | [janet&#8209;json](https://github.com/jennystats/janet-json) | JSON encode/decode in plain Janet | 0.1.3 |
 | [janet&#8209;num](https://github.com/jennystats/janet-num) | small C kernels for numeric hot paths: packed buffers, elementwise and reduction ops, matrix routines, special functions | 0.1.2 |
 | [janet&#8209;stats](https://github.com/jennystats/janet-stats) | statistics library: d/p/q distributions, hypothesis tests, regression, survival, resampling, Bayes | 0.1.2 |
