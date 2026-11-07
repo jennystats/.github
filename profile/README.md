@@ -25,6 +25,10 @@ Each package is self-contained and composes with the others:
 
 - **janet-kit** - the foundation: `defn/typed` gives every function
   runtime type guards with docstring support.
+- **janet-json** - the interchange tier: JSON encode/decode in plain
+  Janet, exact across the full numeric domain - every emitted number
+  re-scans to the same double, and out-of-range literals refuse with
+  a positioned error.
 - **janet-num** - the compute tier: C kernels via core ffi (no native
   jpm module), called on packed buffers. Install its `libjn.so` with
   the pinned installer.
