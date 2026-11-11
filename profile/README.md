@@ -14,7 +14,7 @@ tiers pin their upstream releases and install by script.
 
 | package | what | version |
 |---|---|---|
-| [janet&#8209;kit](https://github.com/jennystats/janet-kit) | runtime type guards (`defn/typed`) and utility helpers - the foundation of the stack | 0.1.4 |
+| [janet&#8209;kit](https://github.com/jennystats/janet-kit) | runtime type guards (`defn/typed`) and utility helpers - the foundation of the stack | 0.1.5 |
 | [janet&#8209;json](https://github.com/jennystats/janet-json) | JSON encode/decode in plain Janet - exact across the full numeric domain, out-of-range values refuse with a positioned error | 0.1.4 |
 | [janet&#8209;num](https://github.com/jennystats/janet-num) | small C kernels for numeric hot paths: packed buffers, elementwise and reduction ops, matrix routines, special functions; install `libjn.so` with the pinned installer | 0.1.2 |
 | [janet&#8209;stats](https://github.com/jennystats/janet-stats) | statistics library: d/p/q distributions, hypothesis tests, regression, survival, resampling, Bayes - R-convention semantics, precision measured against R cell by cell; janet-num adds packed-vector lanes for large inputs | 0.1.2 |
