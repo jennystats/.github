@@ -16,7 +16,7 @@ tiers pin their upstream releases and install by script.
 |---|---|---|
 | [janet&#8209;kit](https://github.com/jennystats/janet-kit) | runtime type guards (`defn/typed`) and utility helpers - the foundation of the stack | 0.1.5 |
 | [janet&#8209;json](https://github.com/jennystats/janet-json) | JSON encode/decode in plain Janet - exact across the full numeric domain, out-of-range values refuse with a positioned error | 0.1.4 |
-| [janet&#8209;num](https://github.com/jennystats/janet-num) | small C kernels for numeric hot paths: packed buffers, elementwise and reduction ops, matrix routines, special functions; install `libjn.so` with the pinned installer | 0.1.3 |
+| [janet&#8209;num](https://github.com/jennystats/janet-num) | small C kernels for numeric hot paths: packed buffers, elementwise and reduction ops, matrix routines, special functions; install `libjn.so` with the pinned installer | 0.1.4 |
 | [janet&#8209;stats](https://github.com/jennystats/janet-stats) | statistics library: d/p/q distributions, hypothesis tests, regression, survival, resampling, Bayes - R-convention semantics, precision measured against R cell by cell; janet-num adds packed-vector lanes for large inputs | 0.1.3 |
 | [janet&#8209;query](https://github.com/jennystats/janet-query) | query your data without writing SQL or engine code, ask your data questions in plain Janet - one query tree runs on both DuckDB and Rayforce, refuses malformed queries before they reach the engine. Verified and fast. | 0.1.2 |
 | [janet&#8209;duckdb](https://github.com/jennystats/janet-duckdb) | in-process DuckDB: prepared statements, full read/bind type matrix, column-major reads, and a C-to-C packed-f32 feed for the numeric kernels | 0.1.3 |
